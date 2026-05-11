@@ -1,1 +1,23 @@
-{}
+{
+  "SHADA": {
+    "username": "SHADA",
+    "password": "200820052008SHADAs",
+    "student_type": "علمي",
+    "telegram_user_id": "6310046480",
+    "telegram_username": "thwba",
+    "telegram_first_name": "أُمُّ اليَـمَانِ ١٤٢٨هـ",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_46.jpg",
+    "session_id": "5697567c-7f7e-41f4-965b-6ace19b46d57",
+    "created_at": "2026-05-11T17:49:30.008490",
+    "verified": true,
+    "last_login": "2026-05-11T17:49:51.588728",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "physics_mechanic",
+      "statistics",
+      "math"
+    ],
+    "server_num": 43
+  }
+}
