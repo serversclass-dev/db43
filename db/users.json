@@ -19,5 +19,23 @@
       "math"
     ],
     "server_num": 43
+  },
+  "saja7": {
+    "username": "saja7",
+    "password": "Saja7777777/",
+    "student_type": "علمي",
+    "telegram_user_id": "1660086079",
+    "telegram_username": "s_s_74612",
+    "telegram_first_name": "𝒮𝒜__7",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_94.jpg",
+    "session_id": "383bc59f-7cee-4f49-8b75-dcbd3cad8e86",
+    "created_at": "2026-05-14T01:24:16.373667",
+    "verified": true,
+    "last_login": "2026-05-14T01:24:51.680957",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 43
   }
 }
